@@ -2,6 +2,12 @@
 ![image](https://github.com/Jasoncode0115/Video-Anomaly-Detection-Based-on-Variational-Self-Encoder-and-Diffusion-Models/assets/145987720/53854f02-ec8b-41c6-a436-69c3b75d820b)  
 This is the implementation of my work.    
 This is a project assignment used in Professor Liang's computer vision course~
+## Demo Video
+
+
+https://github.com/Jasoncode0115/Video-Anomaly-Detection-Based-on-Variational-Self-Encoder-and-Diffusion-Models/assets/145987720/05513339-3960-44e7-8d4a-2e83ffb7878f
+
+
 ## Dependencies
 Python 3.6  
 Numpy 1.14.5  
